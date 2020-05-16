@@ -1,0 +1,11 @@
+C:\Users\omri2\source\repos\GoogleTrendsExcersie\Extensions\bin\Debug\netstandard2.0\Extensions.deps.json
+C:\Users\omri2\source\repos\GoogleTrendsExcersie\Extensions\bin\Debug\netstandard2.0\Extensions.dll
+C:\Users\omri2\source\repos\GoogleTrendsExcersie\Extensions\bin\Debug\netstandard2.0\Extensions.pdb
+C:\Users\omri2\source\repos\GoogleTrendsExcersie\Extensions\bin\Debug\netstandard2.0\Infrastructure.dll
+C:\Users\omri2\source\repos\GoogleTrendsExcersie\Extensions\bin\Debug\netstandard2.0\Infrastructure.pdb
+C:\Users\omri2\source\repos\GoogleTrendsExcersie\Extensions\obj\Debug\netstandard2.0\Extensions.csprojAssemblyReference.cache
+C:\Users\omri2\source\repos\GoogleTrendsExcersie\Extensions\obj\Debug\netstandard2.0\Extensions.AssemblyInfoInputs.cache
+C:\Users\omri2\source\repos\GoogleTrendsExcersie\Extensions\obj\Debug\netstandard2.0\Extensions.AssemblyInfo.cs
+C:\Users\omri2\source\repos\GoogleTrendsExcersie\Extensions\obj\Debug\netstandard2.0\Extensions.csproj.CopyComplete
+C:\Users\omri2\source\repos\GoogleTrendsExcersie\Extensions\obj\Debug\netstandard2.0\Extensions.dll
+C:\Users\omri2\source\repos\GoogleTrendsExcersie\Extensions\obj\Debug\netstandard2.0\Extensions.pdb
