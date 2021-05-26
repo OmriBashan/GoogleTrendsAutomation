@@ -1,1 +1,1 @@
-# etoro
+# google trend automation excersie 
